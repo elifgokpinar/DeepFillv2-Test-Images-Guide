@@ -1,6 +1,8 @@
 # DeepFillv2 Test Images Guide
 Test stages of Gated Convolution (DeepFillv2) inpainting method are explained.
 
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z1NlHPbfMLkuHPLI4a4EoJDHRTLtiVMs#scrollTo=T21y0jZYjy3v)
+ 
 <h2>Requirements</h2>
 <ul>
   <li>Install python3.</li>
@@ -17,8 +19,10 @@ Test stages of Gated Convolution (DeepFillv2) inpainting method are explained.
   <li>Generate masked images <a href="https://github.com/elifgokpinar/DeepFillv2-Test-Images-Guide/tree/main/Generate%20Masked%20Images">(link)</a>. I used <a href=https://www.dropbox.com/s/01dfayns9s0kevy/test_mask.zip?dl=0>NVIDIA Irregular Mask Dataset: Testing Set</a>.
 </li>
   <li>Generate test commands file  <a href="https://github.com/elifgokpinar/DeepFillv2-Test-Images-Guide/tree/main/Generate%20Test%20Commands">(link)</a>. (The system takes 2 inputs to test : masked image and mask image. Pay attention the masked image and mask image paths while generating test command file.)</li>
-  <li>Run the commands file in your computer</li>
+  <li>Run the commands file in your computer.</li>
 </ul>
+
+
 
 <h2>Examples</h2>
 
