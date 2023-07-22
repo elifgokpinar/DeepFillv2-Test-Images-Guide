@@ -1,7 +1,7 @@
 # DeepFillv2 Test Images Guide
 Test stages of Gated Convolution (DeepFillv2) inpainting method are explained.
 
- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z1NlHPbfMLkuHPLI4a4EoJDHRTLtiVMs?usp=sharingv)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18C2dZjzv7ap_2WVtJUp2ZXfIdP2Jq8u2?usp=sharing)
  
 <h2>Requirements</h2>
 <ul>
